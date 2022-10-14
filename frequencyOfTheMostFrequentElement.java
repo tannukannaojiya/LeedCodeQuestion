@@ -30,6 +30,10 @@ public class frequencyOfTheMostFrequentElement {
 }
 
 /*
+1838. Frequency of the Most Frequent Element
+Medium
+
+
  The frequency of an element is the number of times it occurs in an array.
 
 You are given an integer array nums and an integer k. In one operation, you can choose an index of nums and increment the element at that index by 1.
